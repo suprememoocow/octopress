@@ -1,4 +1,5 @@
 ## What is Octopress?
+[![Gitter](http://localhost:4000/Join Chat.svg)](http://localhost:5000/suprememoocow/octopress?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
 
